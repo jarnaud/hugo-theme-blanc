@@ -1,3 +1,7 @@
+# Blanc
+
+Blanc is my customized version of Clean White.
+
 # Clean White Theme for Hugo
 
 CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.
